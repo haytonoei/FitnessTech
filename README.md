@@ -29,7 +29,7 @@ I'm motivated to work on this problem because:
 -- 
 
 When I was in college @ UChicago, my co-founder and I built an Airbnb for personal training, so students can book 1-on-1 training sessions with student atheletes in our school's gym
-
+https://www.powerduo.co/
 They took turns working out together, and the student athelete acted as a mentor, guiding and demonstrating how to do each exercise, and working out with the student customer 3x a week 
 
 Mentors loved teaching, and they were getting paid to do their usual workout 
@@ -42,7 +42,7 @@ This is one way to tech-enable solution #2 so that it can reach millions of Amer
 
 However, I'm thinking of how to integrate #1 into this marketplace business 
 
-Should we also dispense the GLP-1 medications like Noom and Found are doing? Or should we also let other players do the dispensing and we target their customers with a complementary service, assuming they will desire more after losing weight? 
+Should we also dispense the GLP-1 medications like Noom and Found are doing? Or should we let other players do the dispensing and we target their customers with a complementary service, assuming they will desire more after losing weight? 
 
 
 
