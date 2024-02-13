@@ -29,7 +29,9 @@ I'm motivated to work on this problem because:
 -- 
 
 When I was in college @ UChicago, my co-founder and I built an Airbnb for personal training, so students can book 1-on-1 training sessions with student atheletes in our school's gym
+
 https://www.powerduo.co/
+
 They took turns working out together, and the student athelete acted as a mentor, guiding and demonstrating how to do each exercise, and working out with the student customer 3x a week 
 
 Mentors loved teaching, and they were getting paid to do their usual workout 
